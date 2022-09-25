@@ -24,8 +24,9 @@
 * [芯片基础](compile/chip_basis)
   * [芯片架构](compile/chip_basis/chip_architecture.md)
 * [TVM编译器](compile/tvm_basis)
-  * [TVM原语](compile/tvm_basis/tvm_tutorial.ipynb)
-
+  * [TVM原语](compile/tvm_basis/compute_schedule.ipynb)
+  * [TVM算子加速](compile/tvm_basis/common_operation.ipynb)
+  
 * [nn加速库](compile/nn_lib)
   * [ NNVM](compile/nn_lib/NNVM.md)
   * [ MNN](compile/nn_lib/MNNmd)
